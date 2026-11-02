@@ -1,0 +1,31 @@
+{
+ "name": "نەخشەی تاکتیکی کوردستان",
+ "short_name": "نەخشەی کوردستان",
+ "description": "نەخشەی وردی کوردستان بێ ئینتەرنێت: پلاندانان، فێربوون، ڕێگا، GPS",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#181d14",
+ "theme_color": "#181d14",
+ "dir": "rtl",
+ "lang": "ckb",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
